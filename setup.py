@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple package to manage assertions well",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/eoriont/otest",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
